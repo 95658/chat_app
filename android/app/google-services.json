@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "488691680555",
+    "project_id": "chat-app-7b114",
+    "storage_bucket": "chat-app-7b114.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488691680555:android:5cef0d58cd05655c26b16e",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488691680555-hlr2utav2e8lasf6ark922nhompulnil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKqG7aa8YDoih2kIF9rxTdiAUO7OLiFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488691680555-hlr2utav2e8lasf6ark922nhompulnil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488691680555-hro699qk1871s2mo7qohv0hb4nc3kg2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireProject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:488691680555:android:222349f53f4b987426b16e",
+        "android_client_info": {
+          "package_name": "com.example.fire_project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "488691680555-hlr2utav2e8lasf6ark922nhompulnil.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzKqG7aa8YDoih2kIF9rxTdiAUO7OLiFQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "488691680555-hlr2utav2e8lasf6ark922nhompulnil.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "488691680555-hro699qk1871s2mo7qohv0hb4nc3kg2s.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.fireProject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
